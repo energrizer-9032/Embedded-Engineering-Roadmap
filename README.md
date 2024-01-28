@@ -1385,6 +1385,20 @@ AUTOSAR, or AUTomotive Open System ARchitecture, is a global industry standard f
 - [🎞️ Introduction to AUTOSAR](https://www.youtube.com/watch?v=NfZI8wvgZPo)
 - [🎞️ Udemy - Autosar Architecture (Learn from Scratch with Demo)](https://www.udemy.com/course/autosar-architecture/)
 
+_________________
+
+### ✳️ INTERVIEW Prep
+
+Interview is the most important step in getting your dream job. Following are the tips, tricks and advice(for both general and specific to embedded systems role) to ace the intererview.
+
+-
+-
+-
+-
+-
+
+
+_________________
 ## History
 
 At first this was meant to be my personal reading list but as the list gradually became bigger and bigger, I wondered why not share it with others. So I did research on current job postings for embedded engineering roles, selecting the most frequent skills and including them on a roadmap. In order to make the roadmap more comprehensive I also added some basic skills and finally came up with what you see here.
@@ -1408,3 +1422,4 @@ Special thanks to my friends in the community of Iranian Embedded Engineers in T
 If you think that this roadmap can be improved in anyway or you know about some good learning resources that can be added here, please start an issue or a pull request. I’ll be maintaining and updating this repository frequently.
 
 The source file is created using [Microsoft Visio](https://office.com/visio) in `.vsdx` format and included in this repository for your contributions. If you do not have Microsoft Visio or you want to use free software, you can use [draw.io](https://draw.io) which can import and export `.vsdx` files.
+
