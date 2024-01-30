@@ -1,45 +1,8 @@
 # Embedded Systems Engineering Roadmap
 
-[![GitHub Repo stars](https://img.shields.io/github/stars/m3y54m/Embedded-Engineering-Roadmap?style=plastic)](https://github.com/m3y54m/Embedded-Engineering-Roadmap/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/m3y54m/Embedded-Engineering-Roadmap?style=plastic)](https://github.com/m3y54m/Embedded-Engineering-Roadmap/forks)
-[![GitHub watchers](https://img.shields.io/github/watchers/m3y54m/Embedded-Engineering-Roadmap?style=plastic)](https://github.com/m3y54m/Embedded-Engineering-Roadmap/watchers)
-[![GitHub contributors](https://img.shields.io/github/contributors/m3y54m/Embedded-Engineering-Roadmap?style=plastic)](https://github.com/m3y54m/Embedded-Engineering-Roadmap/graphs/contributors)
-[![GitHub tag (with filter)](https://img.shields.io/github/v/tag/m3y54m/Embedded-Engineering-Roadmap?style=plastic&label=latest)](https://github.com/m3y54m/Embedded-Engineering-Roadmap/releases/latest)
-[![GitHub release (by tag)](https://img.shields.io/github/downloads/m3y54m/Embedded-Engineering-Roadmap/latest/total?style=plastic)](https://github.com/m3y54m/Embedded-Engineering-Roadmap/releases/latest)
-[![GitHub all releases](https://img.shields.io/github/downloads/m3y54m/Embedded-Engineering-Roadmap/total?style=plastic&label=total%20downloads)](https://github.com/m3y54m/Embedded-Engineering-Roadmap/releases)
-
 This roadmap is designed to help beginners aspiring to build a career as an **Embedded Engineer/Developer**, as well as assist current practitioners in expanding their skills. 
 
 Embedded engineering demands a solid understanding of hardware functionality as well as software development and programming skills. If you really want to pursue this career you must be highly motivated and passionate about it. As the well-known saying goes, "Hardware is hard!". But don't panic and be patient for the challenges you may encounter along this exciting journey. By dedicating enough time and effort practicing and doing projects you will soon find yourself as a real embedded engineer! 😀
-
-## ❓ What is an Embedded System?
-
-▶️ [ISO/IEC/IEEE 24765 Standard:](https://www.iso.org/obp/ui/en/#iso:std:iso-iec-ieee:24765:ed-2:v1:en)
-
-> **computer system** that is **part of a larger system** and **performs some of the requirements of that system**. For example, a computer system
-used in an aircraft or rapid transit system.
->
-> The hardware and software of an embedded system are usually **minimized** and **optimized** for **specific functions**. The embedded system includes at least one microcontroller, microprocessor or digital signal processor. The embedded system designed to **optimize reliability, cost, size and power saving for applications**.
-
-▶️ ["Making Embedded Systems" Book:](https://www.oreilly.com/library/view/making-embedded-systems/9781449308889/)
-
-> An embedded system is a **computerized system** that is **purpose built for its application**.
-
-▶️ ["Computer Organization and Embedded Systems" Book:](https://a.co/d/2lt4Svf)
-
-> A **physical system** that employs **computer control** for a **specific purpose**, rather than for general-purpose computation, is referred to as an embedded system.
-
-▶️ [Analog Devices Glossary:](https://www.analog.com/en/design-center/glossary/embedded-system.html)
-
-> An embedded system is a system in which the **computer** (generally a microcontroller or microprocessor) is included **as an integral part of the system**.
->
-> Often, the computer is **relatively invisible to the user**, without obvious applications, files, or operating systems. Examples of products with invisible embedded systems are the controller that runs a microwave oven or the engine control system of a modern automobile.
-
-▶️ [Embedded Systems Glossary:](https://barrgroup.com/embedded-systems/glossary-e)
-
-> A combination of **computer hardware and software**, and perhaps **additional mechanical or other parts**, designed to perform a **dedicated function**.
->
-> In some cases, embedded systems are **part of a larger system** or product, as in the case of an antilock braking system in a car.
 
 ## 🗺️ The Roadmap
 
@@ -93,8 +56,6 @@ Don't try to build a complex project right away. Start with small, manageable pr
 Use search engines to find the answers to your questions.
 
 - [🔗 Google](https://www.google.com)
-- [🔗 Bing](https://www.bing.com/)
-- [🔗 DuckDuckGo](https://duckduckgo.com/)
 
 If you can't find what you're looking for using search engines, AI chatbots can also provide assistance. Keep in mind that AI may provide incorrect answers in some cases. It's best to confirm any answers with more reliable references.
 
@@ -148,13 +109,6 @@ Additionally, the [Arduino Core](https://github.com/arduino/ArduinoCore-API) tak
 - [🔗 STM32 World](https://stm32world.com)
 - [🔗 ControllersTech](https://controllerstech.com/)
 
-### 🗺️ Other Helpful Roadmaps
-
-- [🔗 Embedded Artistry Beginners Roadmap](https://embeddedartistry.com/beginners/)
-- [🔗 Embedded Systems Skill Tree](https://github.com/sjpiper145/MakerSkillTree/tree/main/Embedded%20Systems%20Skill%20Tree)
-- [🔗 PCB Design Skill Tree](https://github.com/sjpiper145/MakerSkillTree/tree/main/PCB%20Design%20Skill%20Tree)
-- [🔗 FPGA / ASIC Engineering Roadmap](https://github.com/m3y54m/FPGA-ASIC-Roadmap)
-
 ### 🛠️ IDEs
 
 - [🔗 Keil MDK & µVision](https://www.keil.com/)
@@ -183,7 +137,7 @@ PlatformIO is not yet extensively adopted in industrial and large-scale projects
 
 > [!WARNING]  
 > It is not necessary to read all the books, articles, or watch all the videos you see here. If you try to do so, you will finally get tired and disappointed. You cannot study all the available content here in a reasonable time because it may take years. It is important to study enough to have at least a basic understanding of the required topics. Of course, the more time you dedicate to studying and doing projects, the more profound your knowledge and expertise will become.
->
+
 > Some of the resources mentioned here will just be used as references. Refer to them only when you need them.
 _________________
 
@@ -274,8 +228,6 @@ _________________
 While hardware design and prototyping are primarily the responsibility of electronic hardware design engineers, embedded software engineers can benefit from a basic understanding of these concepts. This knowledge can be instrumental in identifying and resolving hardware-related issues during embedded system debugging. By having a grasp of hardware principles, embedded software engineers can effectively pinpoint the root causes of problems, leading to quicker and more efficient troubleshooting.
 
 #### 🔵 Breadboarding
-
-Breadboarding is a hands-on approach to prototyping circuits, providing a versatile platform for experimentation and circuit design. Embedded systems often utilize breadboards for their ease of use, flexibility, and cost-effectiveness. By connecting components on a breadboard, embedded systems developers can quickly test and refine their designs without the need for permanent soldering. This allows for rapid iterations and efficient debugging, making breadboarding an invaluable tool for embedded system development.
 
 - [🎞️👶 Everything You Need to Know about Breadboards](https://www.youtube.com/watch?v=mE33WpRWrXs)
 - [🎞️👶 How to Use a Breadboard](https://youtu.be/6WReFkfrUIk)
@@ -391,7 +343,7 @@ Low-level languages like C and assembly provide direct hardware access, enabling
 
 #### 🔵 C++
 
-- [📝 Modern C++ in Embedded Development: (Don't Fear) The ++](https://www.embeddedrelated.com/showarticle/1532.php)
+- [📝 Modern C++ in Embedded Development](https://www.embeddedrelated.com/showarticle/1532.php)
 - [📝 C++ On Embedded Systems](https://blog.mbedded.ninja/programming/languages/c-plus-plus/cpp-on-embedded-systems/)
 - [🎞️👶 C++ Tutorial for Beginners - Full Course](https://www.youtube.com/watch?v=vLnPwxZdW4Y)
 - [🎞️ C++ by The Cherno (YouTube Playlist)](https://youtube.com/playlist?list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb)
