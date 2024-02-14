@@ -6,7 +6,7 @@ Embedded engineering demands a solid understanding of hardware functionality as 
 
 ## 🗺️ The Roadmap
 
-![Embedded Systems Engineering Roadmap](https://github.com/energrizer-9032/Embedded-Engineering-Roadmap/releases/download/release/Embedded-Engineering-Roadmap.drawio.svg)
+![Embedded Systems Engineering Roadmap](https://github.com/energrizer-9032/Embedded-Engineering-Roadmap/releases/download/0.0.1/roadmap.png)
 
 The embedded systems engineering roadmap is structured into three fundamental areas: **SOFTWARE**, **HARDWARE**, and **SOFT SKILLS**.
 
