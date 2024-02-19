@@ -1366,12 +1366,9 @@ The idea of creating this roadmap came from [vazeri / Embedded-Engineering-RoadM
 
 This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/) which means that you are free to **share** or **adapt** this work under the following terms:
 
-**Attribution** — You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
+**Attribution** — You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use. This repo is forked from [m3y54m/Embedded-Engineering-Roadmap](https://github.com/m3y54m/Embedded-Engineering-Roadmap). All rights are reserved to their respective copyright holders.
 
 **ShareAlike** — If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original. 
-
-## Attribution
- This repo is froked from 
 
 ## Upcoming Changes
 - Replace all possible amazon links with pdfs
