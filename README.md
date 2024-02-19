@@ -1372,3 +1372,11 @@ This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 Inter
 
 ## Attribution
  This repo is froked from 
+
+## Upcoming Changes
+- Replace all possible amazon links with pdfs
+- Delete the junk
+- Segrigate the course into study and refrence material
+- Correct the image
+- Add more hardware stuff
+     
