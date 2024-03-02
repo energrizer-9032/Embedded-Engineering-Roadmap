@@ -157,7 +157,7 @@ _________________
 
 - [🎞️ Khan Academy - Calculus 1](https://www.khanacademy.org/math/calculus-1)
 - [📘👶 Calculus For Dummies - Mark Ryan](https://a.co/d/cyvZqE1)
-- [📘💎 Thomas' Calculus](https://a.co/d/gFcCC37)
+- [📘💎 Thomas' Calculus](https://rodrigopacios.github.io/mrpacios/download/Thomas_Calculus.pdf)
 
 #### 🔵 Principles of Electric Circuits
 
@@ -170,8 +170,8 @@ _________________
 #### 🔵 Electronics Fundamentals
 
 - [🎞️👶 Electronic Basics - GreatScott! (YouTube Playlist)](https://youtube.com/playlist?list=PLAROrg3NQn7cyu01HpOv5BWo217XWBZu0)
-- [📘👶 Make: Electronics: Learning by Discovery - Charles Platt](https://a.co/d/fbRoM1R)
-- [📘👶💎 Electronic Devices: Conventional Current Version - Thomas Floyd, David Buchla, Steven Wetterling](https://a.co/d/1dsS0vx)
+- [📘👶 Make: Electronics: Learning by Discovery - Charles Platt](https://arl.human.cornell.edu/linked%20docs/Make%20-%20Electronics.pdf)
+- [📘👶💎 Electronic Devices: Conventional Current Version - Thomas Floyd, David Buchla, Steven Wetterling](https://api.pageplace.de/preview/DT0400.9781292223018_A31720172/preview-9781292223018_A31720172.pdf)
 - [📘👶💎 Electronics Fundamentals: Circuits, Devices & Applications - Thomas L Floyd, David M. Buchla, Gary D. Snyder](https://a.co/d/4Ye5m8h)
 - [📘👶 Practical Electronics for Inventors - Paul Scherz, Simon Monk](https://a.co/d/1QfSN8j)
 - [📘💎 The Art of Electronics -  Paul Horowitz, Winfield Hill](https://artofelectronics.net/)
@@ -199,6 +199,7 @@ Computer architecture is the backbone of embedded systems, governing the hardwar
 - [📘 The Definitive Guide to ARM® Cortex®-M0 and Cortex-M0+ Processors - Joseph Yiu](https://www.oreilly.com/library/view/the-definitive-guide/9780128032787/)
 - [📘 The Definitive Guide to ARM® Cortex®-M3 and Cortex®-M4 Processors - Joseph Yiu](https://www.oreilly.com/library/view/the-definitive-guide/9780124080829/)
 - [🔗 Build an 8-bit computer from scratch](https://eater.net/8bit/)
+- [Introduction to Computer Architecture by Arm University](https://www.arm.com/resources/education/education-kits/computer-architecture)
 
 _________________
 
@@ -836,6 +837,7 @@ Digital signal processing (DSP) is a branch of engineering that deals with the p
 - [📘 Real-Time Digital Signal Processing from MATLAB to C with the TMS320C6x DSPs - Thad B. Welch, Cameron H.G. Wright, Michael G. Morrow](https://www.routledge.com/Real-Time-Digital-Signal-Processing-from-MATLAB-to-C-with-the-TMS320C6x/Welch-Wright-Morrow/p/book/9780367736453)
 - [📘 Schaum's Outline of Signals and Systems - Hwei P. Hsu](https://www.mhprofessional.com/schaum-s-outline-of-signals-and-systems-fourth-edition-9781260454246-usa)
 - [📘💎 Digital Signal Processing - John G. Proakis, Dimitris K. Manolakis](https://a.co/d/75P5PiE)
+- [Digital Signal Processing Education Kit by Arm University](https://github.com/arm-university/Digital-Signal-Processing-Education-Kit)
 
 #### 🔵 Discrete Fourier Transform / FFT
 
@@ -896,6 +898,8 @@ Real-time operating systems (RTOS) are specialized operating systems designed to
 - [📝 ARM Cortex-M RTOS Context Switching](https://interrupt.memfault.com/blog/cortex-m-rtos-context-switching)
 - [🎞️ RTOS (YouTube Playlist)](https://www.youtube.com/playlist?list=PLPW8O6W-1chyrd_Msnn4LD6LBs2slJITs)
 - [🎞️ Beyond the RTOS (YouTube Playlist)](https://www.youtube.com/playlist?list=PLPW8O6W-1chytjkg63-tM7MI0BvGxxPIP)
+- [Real-Time Operating Systems Education Kit by Arm University](https://github.com/arm-university/Real-Time-Operating-Systems-Design-And-Programming-Education-Kit)
+
 
 ##### 🔶 FreeRTOS
 
@@ -973,6 +977,7 @@ Embedded Linux is a specialized version of the Linux operating system tailored f
 - [🔗 Real Time Linux and `PREEMPT_RT` Patch](https://wiki.linuxfoundation.org/realtime/start)
 - [🔗 Android Open Source Project](https://source.android.com)
 - [🔗 Android Automotive](https://source.android.com/docs/automotive)
+- [Embedded Linux Education Kit by Arm University](https://github.com/arm-university/Embedded-Linux-Education-Kit)
 
 
 ##### 🔶 Linux Kernel
@@ -1291,6 +1296,7 @@ _________________
 The Internet of Things (IoT) refers to a network of interconnected devices, which gather and exchange data with other devices or with the cloud. Embedded systems are typically the "brains" of IoT devices, managing data collection, processing, and communication tasks. Embedded systems are designed to operate with limited power and resources, making them well-suited for IoT applications.
 
 - [🎞️👶💎 Microchip University - Design Considerations For Your First IoT Project](https://mu.microchip.com/design-considerations-for-your-first-iot-project)
+- [Internet of Things Education Kit by Arm University](https://github.com/arm-university/internet-of-things-education-kit)
 
 #### 🔵 Delta Over-The-Air Firmware Update
 
