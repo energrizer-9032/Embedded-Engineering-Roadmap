@@ -1155,6 +1155,7 @@ Version control systems are essential tools for managing changes to code and oth
 
 - [🎞️👶 Git Tutorial for Beginners: Learn Git in 1 Hour](https://www.youtube.com/watch?v=8JJ101D3knE)
 - [🎞️ Git for Professionals Tutorial - Tools & Concepts for Mastering Version Control with Git](https://www.youtube.com/watch?v=Uszj_k0DGsg)
+- [👶 Oh My Git](https://ohmygit.org/)
 
 #### 🔵 SVN (Subversion)
 
